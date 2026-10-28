@@ -1,0 +1,14 @@
+/*.bin
+__pycache__/
+*.pyc
+/__ignore__
+/.idea
+env/
+dist
+*.egg-info
+
+# Claude Code / local tooling
+.claude/
+
+# Sample / case data (never commit real browser artifacts)
+sample/
